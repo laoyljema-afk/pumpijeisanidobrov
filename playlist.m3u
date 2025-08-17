@@ -1,0 +1,47 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kids",Nickelodeon Deutschland [Geo-blocked]
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
+#EXTINF:-1 tvg-id="ATV.at" group-title="Austria",ATV (576p)
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1 tvg-id="ATV2.at@HD" group-title="Austria",ATV2 HD
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+
+#EXTINF:-1 tvg-id="ORFIII.at@HD" group-title="Austria",ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sport",Boxing TV (1080p)
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwei.de@HD" group-title="Germany",RTL Zwei HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de" group-title="Kids",Disney Channel (576p)
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="VOX.de" group-title="Germany",VOX (576p) [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de@Austria" group-title="Germany",RTL Austria (576p)
+http://185.189.225.150:85/RTL/index.m3u8
+#EXTINF:-1 tvg-id="RTL.de@HD" group-title="Germany",RTL HD
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@SD" group-title="Kids",RTL Super
+https://trn09.bozztv.com/gin-superrtl/index.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Germany" group-title="Kids",SpongeBob Schwammkopf
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e6bdc7a-78a0-4fdd-8f37-ea9905c5e422
+
+#EXTINF:-1 tvg-id="24Kitchen.us@Serbia" group-title="Food",24Kitchen Serbia (720p)
+http://91.132.74.5:8000/play/a00a
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Kids",Nickelodeon US
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="Kids",NickToons US (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="Victorious.us@Germany" group-title="Kids",Victorious
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b8f594b9-41be-4385-aa1a-9f9f0de6f06b
